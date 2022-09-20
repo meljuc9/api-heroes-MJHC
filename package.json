@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Soy una super API",
   "main": "server.js",
-  "author": "Melanny Julieth Herrera Cruz",
+  "author": "Melanny Herrera",
   "scripts": {
     "start": "node server.js"
   },
